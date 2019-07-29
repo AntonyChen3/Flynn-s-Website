@@ -17,9 +17,11 @@ h1 {
 
 .navbar-brand img {width:200px;}
  
+ #footer {background-color:blue;color:#fff}
+ 
+ #lowerfooter {background-color:darkblue;color:#fff}
  
  
  
  
- 
-<p>welcome</p> <h1>Flynn</h1>
+<p>welcome</p> <h1>Flynn</h1>  
