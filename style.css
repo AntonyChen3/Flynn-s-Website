@@ -9,7 +9,14 @@ h6,
 h5,
 h4,
 h3,
-h2,
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 500;
+	background-color:black;color:#007bff
+	
+}
+
+
 h1 {
     font-family: 'Lato', sans-serif;
 	font-weight: 500;
@@ -17,11 +24,12 @@ h1 {
 
 .navbar-brand img {width:200px;}
  
- #footer {background-color:blue;color:#fff}
+ #footer {background-color:black;color:#fff}
  
- #lowerfooter {background-color:darkblue;color:#fff}
+ #lowerfooter {background-color:darkgreen;}
+ 
+ #lowerfooter i {font-size:50px;color:#fff;margin:17px 13px 4px 2px}
  
  
  
  
-<p>welcome</p> <h1>Flynn</h1>  
